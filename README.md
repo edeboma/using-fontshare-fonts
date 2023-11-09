@@ -1,13 +1,12 @@
-# Web Starter
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ewuweblab/web-starter)
+## Using Font Share Fonts
 
+Repo for installing Fontshare fonts.
 
-> Computers are dumb. Humans make them smart.
-
-Starter (boilerplate) for all future projects.
-
-## Why Does This Exist?
-* Don't with blank files
-* Common boilerplate for web projects
-* I am a human being who makes mistakes
+1. Find the best font for your project
+2. Download and extract/unzip fonts
+3. Go to `Fonts/WEB`
+4. Upload `Fonts/WEB/fonts` to web root
+5. Upload Fontshare CSS folder in web root
+6. Import Fontshare CSS file into our CSS file
+7. Use font in `style.css` with `font-family`

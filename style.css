@@ -1,3 +1,10 @@
+@import url(kola.css);
+
+
 body {
-    background: rgb(89, 255, 0);
+    background: rgb(166, 193, 152);
+    font-family: 'Kola-Regular';
+    font-size: 5rem;
+    text-align: center;
 }
+
